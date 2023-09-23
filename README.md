@@ -13,3 +13,7 @@ This will also download needed dependencies.
 
 Navigate to `scripts` folder and run [Setup.bat](https://github.com/lksrb/RayTracing/blob/main/scripts/Setup.bat). 
 This script will generate ```RayTracing.sln``` into the root folder.
+
+## Showcase
+Emission material:
+![Emission material](https://github.com/lksrb/RayTracing/blob/main/res/raytraced.png?raw=true)
