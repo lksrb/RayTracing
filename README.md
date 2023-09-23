@@ -1,6 +1,15 @@
-# Walnut App Template
+# RayTracer
+This is a basic implementation of a raytracer for me to learn how to create such stuff. Currently only on CPU.
 
-This is a simple app template for [Walnut](https://github.com/TheCherno/Walnut) - unlike the example within the Walnut repository, this keeps Walnut as an external submodule and is much more sensible for actually building applications. See the [Walnut](https://github.com/TheCherno/Walnut) repository for more details.
+## Getting started
+Using Visual Studio 2022 is recommended.
 
-## Getting Started
-Once you've cloned, you can customize the `premake5.lua` and `WalnutApp/premake5.lua` files to your liking (eg. change the name from "WalnutApp" to something else).  Once you're happy, run `scripts/Setup.bat` to generate Visual Studio 2022 solution/project files. Your app is located in the `WalnutApp/` directory, which some basic example code to get you going in `WalnutApp/src/WalnutApp.cpp`. I recommend modifying that WalnutApp project to create your own application, as everything should be setup and ready to go.
+<ins>**1. Downloading the repository**</ins>
+
+Start by cloning this repository using `git clone --recursive https://www.github.com/lksrb/RayTracing`.
+This will also download needed dependencies.
+
+<ins>**2. Setting up the project**</ins>
+
+Navigate to `scripts` folder and run [Setup.bat](https://github.com/lksrb/RayTracing/blob/main/scripts/Setup.bat). 
+This script will generate ```RayTracing.sln``` into the root folder.
