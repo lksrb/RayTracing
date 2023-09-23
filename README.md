@@ -16,4 +16,5 @@ This script will generate ```RayTracing.sln``` into the root folder.
 
 ## Showcase
 Emission material:
-![Emission material](https://github.com/lksrb/RayTracing/blob/res/raytraced.png?raw=true)
+![Emission material](https://raw.githubusercontent.com/lksrb/RayTracing/master/res/raytraced.png)
+
